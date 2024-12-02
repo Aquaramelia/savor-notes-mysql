@@ -11,7 +11,7 @@ gem "tzinfo-data"
 # gem "jbuilder"
 
 # Serialization
-gem 'active_model_serializers', '~> 0.10.0'
+gem 'active_model_serializers', '~> 0.10.15'
 
 # Cross-Origin Resource Sharing
 gem 'rack-cors', require: 'rack/cors'
